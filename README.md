@@ -10,6 +10,10 @@ The Drawing App is a mobile application developed in Flutter that allows users t
 - Save your artwork to your device's gallery for future use.
 - Share your artwork on social media platforms like Facebook, Instagram, and Twitter.
 
+## UI
+
+![Drawing App Demo](https://user-images.githubusercontent.com/19569802/235352397-2f26916f-bf54-46c3-a294-60f870e2c84d.gif)
+
 ## Prerequisites
 
 Before you can use the Drawing App, you need to have the following:
